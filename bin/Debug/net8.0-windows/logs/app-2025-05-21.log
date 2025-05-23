@@ -1,0 +1,63 @@
+2025-05-21 12:19:30.0689 | INFO | LoggingManager | Sistema de logging configurado correctamente 
+2025-05-21 12:19:30.6433 | INFO | InvSis.Data.PostgreSQLDataAccess | Instancia de acceso a datos creada correctamente 
+2025-05-21 12:19:50.8973 | INFO | InvSis.Data.PostgreSQLDataAccess | Conexión a la base de datos establecida correctamente 
+2025-05-21 12:19:51.0831 | INFO | InvSis.Data.RolesDataAccess | Se obtuvieron 0 roles de la base de datos 
+2025-05-21 12:19:51.0831 | TRACE | InvSis.Data.PostgreSQLDataAccess | [DETALLE COMPLETO] Parámetro: @IdRol = 0 
+2025-05-21 12:45:08.4472 | INFO | LoggingManager | Sistema de logging configurado correctamente 
+2025-05-21 12:45:08.7489 | INFO | InvSis.Data.PostgreSQLDataAccess | Instancia de acceso a datos creada correctamente 
+2025-05-21 12:45:35.0090 | INFO | InvSis.Data.PostgreSQLDataAccess | Conexión a la base de datos establecida correctamente 
+2025-05-21 12:45:35.2151 | INFO | InvSis.Data.RolesDataAccess | Se obtuvieron 0 roles de la base de datos 
+2025-05-21 12:45:35.2151 | TRACE | InvSis.Data.PostgreSQLDataAccess | [DETALLE COMPLETO] Parámetro: @IdRol = 0 
+2025-05-21 15:20:54.2037 | INFO | LoggingManager | Sistema de logging configurado correctamente 
+2025-05-21 15:20:54.5786 | INFO | InvSis.Data.PostgreSQLDataAccess | Instancia de acceso a datos creada correctamente 
+2025-05-21 15:20:55.5138 | INFO | InvSis.Data.PostgreSQLDataAccess | Conexión a la base de datos establecida correctamente 
+2025-05-21 15:20:55.6860 | INFO | InvSis.Data.PermisosDataAccess | Se obtuvieron 19 permisos de la base de datos 
+2025-05-21 19:57:33.8283 | INFO | LoggingManager | Sistema de logging configurado correctamente 
+2025-05-21 19:57:34.0669 | INFO | InvSis.Data.PostgreSQLDataAccess | Instancia de acceso a datos creada correctamente 
+2025-05-21 19:57:34.0669 | INFO | InvSis.Data.ProductosDataAccess | ProductosDataAccess inicializado correctamente 
+2025-05-21 19:57:35.0611 | INFO | InvSis.Data.PostgreSQLDataAccess | Conexión a la base de datos establecida correctamente 
+2025-05-21 19:57:35.2357 | INFO | InvSis.Data.ProductosDataAccess | Se obtuvieron 0 productos 
+2025-05-21 19:58:28.4109 | TRACE | InvSis.Data.PostgreSQLDataAccess | [DETALLE COMPLETO] Parámetro: @Nombre = ajajkajka 
+2025-05-21 19:58:28.4109 | TRACE | InvSis.Data.PostgreSQLDataAccess | [DETALLE COMPLETO] Parámetro: @Categoria = Cat X 
+2025-05-21 19:58:28.4109 | TRACE | InvSis.Data.PostgreSQLDataAccess | [DETALLE COMPLETO] Parámetro: @Costo = 10 
+2025-05-21 19:58:28.4109 | TRACE | InvSis.Data.PostgreSQLDataAccess | [DETALLE COMPLETO] Parámetro: @Stock = 3 
+2025-05-21 19:58:28.4109 | TRACE | InvSis.Data.PostgreSQLDataAccess | [DETALLE COMPLETO] Parámetro: @Ubicacion = Tijuana 
+2025-05-21 19:58:28.4109 | TRACE | InvSis.Data.PostgreSQLDataAccess | [DETALLE COMPLETO] Parámetro: @Clave = 7501234567890 
+2025-05-21 19:58:28.4109 | TRACE | InvSis.Data.PostgreSQLDataAccess | [DETALLE COMPLETO] Parámetro: @Estatus = 1 
+2025-05-21 19:58:28.4109 | TRACE | InvSis.Data.PostgreSQLDataAccess | [DETALLE COMPLETO] Parámetro: @AplicaImpuesto = False 
+2025-05-21 19:58:28.4109 | TRACE | InvSis.Data.PostgreSQLDataAccess | [DETALLE COMPLETO] Parámetro: @IdImpuesto =  
+2025-05-21 19:58:28.5273 | INFO | InvSis.Data.ProductosDataAccess | Producto insertado correctamente con ID: 1 
+2025-05-21 19:58:30.1546 | INFO | InvSis.Data.ProductosDataAccess | Se obtuvieron 1 productos 
+2025-05-21 19:58:55.8669 | INFO | InvSis.Data.PermisosDataAccess | Se obtuvieron 19 permisos de la base de datos 
+2025-05-21 19:59:26.1213 | INFO | InvSis.Data.ProductosDataAccess | Se obtuvieron 1 productos 
+2025-05-21 19:59:29.0267 | INFO | InvSis.Data.ProductosDataAccess | Se obtuvieron 1 productos 
+2025-05-21 19:59:31.2214 | INFO | InvSis.Data.ProductosDataAccess | Se obtuvieron 1 productos 
+2025-05-21 19:59:33.8565 | INFO | InvSis.Data.ProductosDataAccess | Se obtuvieron 1 productos 
+2025-05-21 19:59:35.9015 | INFO | InvSis.Data.ProductosDataAccess | Se obtuvieron 1 productos 
+2025-05-21 19:59:38.3300 | INFO | InvSis.Data.ProductosDataAccess | Se obtuvieron 1 productos 
+2025-05-21 20:04:25.8551 | INFO | LoggingManager | Sistema de logging configurado correctamente 
+2025-05-21 20:04:26.1462 | INFO | InvSis.Data.PostgreSQLDataAccess | Instancia de acceso a datos creada correctamente 
+2025-05-21 20:04:26.1462 | INFO | InvSis.Data.ProductosDataAccess | ProductosDataAccess inicializado correctamente 
+2025-05-21 20:04:27.3183 | INFO | InvSis.Data.PostgreSQLDataAccess | Conexión a la base de datos establecida correctamente 
+2025-05-21 20:04:27.4994 | INFO | InvSis.Data.ProductosDataAccess | Se obtuvieron 1 productos 
+2025-05-21 20:04:53.6567 | INFO | InvSis.Data.ProductosDataAccess | Se obtuvieron 1 productos 
+2025-05-21 20:04:54.7203 | INFO | InvSis.Data.ProductosDataAccess | Se obtuvieron 1 productos 
+2025-05-21 20:04:56.2944 | INFO | InvSis.Data.ProductosDataAccess | Se obtuvieron 1 productos 
+2025-05-21 20:04:59.8660 | INFO | InvSis.Data.ProductosDataAccess | Se obtuvieron 1 productos 
+2025-05-21 20:08:50.1683 | INFO | LoggingManager | Sistema de logging configurado correctamente 
+2025-05-21 20:08:50.4627 | INFO | InvSis.Data.PostgreSQLDataAccess | Instancia de acceso a datos creada correctamente 
+2025-05-21 20:08:50.4627 | INFO | InvSis.Data.ProductosDataAccess | ProductosDataAccess inicializado correctamente 
+2025-05-21 20:08:51.5289 | INFO | InvSis.Data.PostgreSQLDataAccess | Conexión a la base de datos establecida correctamente 
+2025-05-21 20:08:51.7131 | INFO | InvSis.Data.ProductosDataAccess | Se obtuvieron 1 productos 
+2025-05-21 20:09:15.1129 | INFO | InvSis.Data.ProductosDataAccess | Se obtuvieron 1 productos 
+2025-05-21 20:09:44.1890 | TRACE | InvSis.Data.PostgreSQLDataAccess | [DETALLE COMPLETO] Parámetro: @Nombre = eeeeeeeeee 
+2025-05-21 20:09:44.1890 | TRACE | InvSis.Data.PostgreSQLDataAccess | [DETALLE COMPLETO] Parámetro: @Categoria = Cat X 
+2025-05-21 20:09:44.1890 | TRACE | InvSis.Data.PostgreSQLDataAccess | [DETALLE COMPLETO] Parámetro: @Costo = 111111 
+2025-05-21 20:09:44.1890 | TRACE | InvSis.Data.PostgreSQLDataAccess | [DETALLE COMPLETO] Parámetro: @Stock = 2 
+2025-05-21 20:09:44.1890 | TRACE | InvSis.Data.PostgreSQLDataAccess | [DETALLE COMPLETO] Parámetro: @Ubicacion = Tijuana 
+2025-05-21 20:09:44.1890 | TRACE | InvSis.Data.PostgreSQLDataAccess | [DETALLE COMPLETO] Parámetro: @Clave = 7501234567891 
+2025-05-21 20:09:44.1890 | TRACE | InvSis.Data.PostgreSQLDataAccess | [DETALLE COMPLETO] Parámetro: @Estatus = 0 
+2025-05-21 20:09:44.1890 | TRACE | InvSis.Data.PostgreSQLDataAccess | [DETALLE COMPLETO] Parámetro: @AplicaImpuesto = False 
+2025-05-21 20:09:44.1890 | TRACE | InvSis.Data.PostgreSQLDataAccess | [DETALLE COMPLETO] Parámetro: @IdImpuesto =  
+2025-05-21 20:09:44.3083 | INFO | InvSis.Data.ProductosDataAccess | Producto insertado correctamente con ID: 2 
+2025-05-21 20:09:45.6526 | INFO | InvSis.Data.ProductosDataAccess | Se obtuvieron 2 productos 
