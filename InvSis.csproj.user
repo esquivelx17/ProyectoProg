@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Views\frmAdminProd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\frmCreacionRoles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\frmGestionRoles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\frmGestrionPermisos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\frmLogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\frmMDI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\frmPersona.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\frmRegMov.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\frmRepAPI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\frmRepInv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\frmResumenVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\frmUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\frmVReportesAuditoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
