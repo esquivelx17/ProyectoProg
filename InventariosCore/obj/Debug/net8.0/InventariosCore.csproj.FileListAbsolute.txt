@@ -1,0 +1,12 @@
+C:\Users\esqui\source\InventariosCore\obj\Debug\net8.0\InventariosCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esqui\source\InventariosCore\obj\Debug\net8.0\InventariosCore.AssemblyInfoInputs.cache
+C:\Users\esqui\source\InventariosCore\obj\Debug\net8.0\InventariosCore.AssemblyInfo.cs
+C:\Users\esqui\source\InventariosCore\obj\Debug\net8.0\InventariosCore.csproj.CoreCompileInputs.cache
+C:\Users\esqui\source\InventariosCore\obj\Debug\net8.0\InventariosCore.csproj.AssemblyReference.cache
+C:\Users\esqui\source\InventariosCore\bin\Debug\net8.0\InventariosCore.deps.json
+C:\Users\esqui\source\InventariosCore\bin\Debug\net8.0\InventariosCore.dll
+C:\Users\esqui\source\InventariosCore\bin\Debug\net8.0\InventariosCore.pdb
+C:\Users\esqui\source\InventariosCore\obj\Debug\net8.0\InventariosCore.dll
+C:\Users\esqui\source\InventariosCore\obj\Debug\net8.0\refint\InventariosCore.dll
+C:\Users\esqui\source\InventariosCore\obj\Debug\net8.0\InventariosCore.pdb
+C:\Users\esqui\source\InventariosCore\obj\Debug\net8.0\ref\InventariosCore.dll
